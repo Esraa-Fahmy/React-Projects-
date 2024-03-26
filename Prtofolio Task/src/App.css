@@ -1,0 +1,33 @@
+.my-header{
+    width: 100%;
+    height: 480px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Qq0vWP-UGglyV1aqDpilE9hsDAD1SV8_Nw&usqp=CAU);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    background: cover;
+}
+.my-header .header-content{
+    position: absolute;
+    top: 180px;
+    left: 60px;
+    line-height: 70px;
+    color: white;
+    text-align: center;
+}
+/* -----------------------------------hrader style---------- */
+.my-about a{
+    text-decoration: none;
+    color: white;
+}
+/* -------------------------------about---------------- */
+.my-skills{
+    color: white;
+}
+
+.portfolio-content-item{
+    cursor: pointer;
+    border-radius: 20px;
+    box-shadow: 3px 4px 3px gray;
+}
